@@ -1,5 +1,10 @@
 [
-{"id":"1","firstName":"��������","lastName":"NT$790","pic":"����.png","managerId":"0","title":"�J�|���G�����J�|\n���`�G���A���G�B���B\n�O�s�����G�N��3��\n�����G�J����\n�O�s�覡�G�N��\n�O�s�����G�N��3�Ѥ����Χ���","department":"�ͤ��J�|","officePhone":"617-000-0001","cellPhone":"781-000-0001","email":"jking@fakemail.com","city":"Boston, MA","picture":"����.png"}
+{"id":"1","firstName":"玫瑰花園","lastName":"NT$790","pic":"玫瑰.png","managerId":"0","title":"蛋糕體：香草蛋糕
+夾餡：什錦水果、布丁
+保存期限：冷藏3天
+葷素：蛋奶素
+保存方式：冷藏
+保存期限：冷藏3天內食用完畢","department":"生日蛋糕"}
 ,
 {"id":"2","firstName":"��ù��","lastName":"NT$790","pic":"��ù��.png","managerId":"1","title":"�J�|���G�����J�|\n���`�G���d�`\n�O�s�����G�N��3��\n�����G�J����\n�O�s�覡�G�N��\n�O�s�����G�N��3�Ѥ����Χ���","department":"�ͤ��J�|","officePhone":"617-000-0002","cellPhone":"781-000-0002","email":"jtaylor@fakemail.com","city":"Boston, MA","picture":"��ù��.png"}
 ,
